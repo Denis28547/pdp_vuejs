@@ -1,0 +1,9 @@
+NODE Version: 18.16.0
+
+cd frontend
+npm i
+npm run serve
+
+cd ../backend
+npm i
+npm run start
